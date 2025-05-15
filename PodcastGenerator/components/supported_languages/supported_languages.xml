@@ -33,6 +33,10 @@
 		<name>עִבְרִית</name>
 	</language>
 	<language>
+		<code>pt_BR</code>
+		<name>Português do Brasil</name>
+	</language>
+	<language>
 		<code>sv_SE</code>
 		<name>Svenska</name>
 	</language>
