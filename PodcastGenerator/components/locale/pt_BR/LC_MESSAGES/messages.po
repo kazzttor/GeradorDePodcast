@@ -476,12 +476,12 @@ msgid ""
 "Generator Homepage."
 msgstr ""
 "Se você não tiver mais este arquivo ZIP, não se preocupe! Todas as versões do "
-"Podcast Generator lançadas desde a 2.5 estão disponíveis na página inicial do "
-"Podcast Generator."
+"Gerador de Podcast lançadas desde a 2.5 estão disponíveis na página inicial do "
+"Gerador de Podcast."
 
 #: PodcastGenerator/admin/index.php:37
 msgid "Welcome to your Podcast Generator Admin Interface"
-msgstr "Bem-vindo à sua Interface de Administração do Podcast Generator"
+msgstr "Bem-vindo à sua Interface de Administração do Gerador de Podcast"
 
 #: PodcastGenerator/admin/login.php:24
 msgid "Login disabled for security reasons"
@@ -568,11 +568,11 @@ msgstr "Alterar detalhes do Podcast"
 
 #: PodcastGenerator/admin/navbar.php:53
 msgid "Podcast Generator"
-msgstr "Podcast Generator"
+msgstr "Gerador de Podcast"
 
 #: PodcastGenerator/admin/navbar.php:56
 msgid "Change Podcast Generator Config"
-msgstr "Alterar Configuração do Podcast Generator"
+msgstr "Alterar Configuração do Gerador de Podcast"
 
 #: PodcastGenerator/admin/navbar.php:57 PodcastGenerator/admin/pg_users.php:70
 #: PodcastGenerator/admin/pg_users.php:84
@@ -599,11 +599,11 @@ msgstr "Número da temporada e episódio"
 #: PodcastGenerator/admin/pg_config.php:69
 #: PodcastGenerator/admin/pg_integrations.php:70
 msgid "Podcast Generator Configuration"
-msgstr "Configuração do Podcast Generator"
+msgstr "Configuração do Gerador de Podcast"
 
 #: PodcastGenerator/admin/pg_config.php:83
 msgid "Change Podcast Generator Configuration"
-msgstr "Alterar Configuração do Podcast Generator"
+msgstr "Alterar Configuração do Gerador de Podcast"
 
 #: PodcastGenerator/admin/pg_config.php:85
 msgid "Enable Audio and Video Player"
